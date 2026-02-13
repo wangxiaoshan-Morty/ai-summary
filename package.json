@@ -1,0 +1,14 @@
+{
+  "name": "ai-summary",
+  "version": "1.0.0",
+  "description": "Read and print Doubao AI output",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
